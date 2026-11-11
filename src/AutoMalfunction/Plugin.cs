@@ -17,7 +17,7 @@ namespace AutoMalfunction
         public const string PluginName = "Auto Malfunction";
 
         /// <summary>Must match the csproj's Version.</summary>
-        public const string PluginVersion = "0.0.1";
+        public const string PluginVersion = "0.1.0";
 
         internal static ManualLogSource Log;
         internal static ConfigEntry<bool> Enabled;

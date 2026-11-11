@@ -5,7 +5,7 @@ the game's own FirearmController calls. Repo https://github.com/JoelHauser/autom
 
 ## State
 
-0.0.1 built against EFT 0.16.9.40743 (SPT 4.x). Harness passes. **Never run in game.** The
+0.1.0 (GitHub pre-release) built against EFT 0.16.9.40743 (SPT 4.x). Harness passes. **Never run in game.** The
 in-game checklist is at the bottom.
 
 ## How the game does it (decompiled 0.16.9.40743, SPT-patched Assembly-CSharp)

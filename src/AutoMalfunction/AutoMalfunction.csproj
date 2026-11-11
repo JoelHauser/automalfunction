@@ -10,7 +10,7 @@
     
 
     <!-- Must match Plugin.PluginVersion. -->
-    <Version>0.0.1</Version>
+    <Version>0.1.0</Version>
 
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
